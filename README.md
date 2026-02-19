@@ -1,12 +1,13 @@
-# ClipperLib
+# clipper-es
 
+> forked from [clipper-lib](junmer/clipper-lib: Boolean operations and offsetting library in Javascript)
 > forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/)
 
 ## Description
 
-The Javascript Clipper library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
+clipper-es is a library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
 
-Javascript Clipper is a port of Angus Johnson's Clipper library: <https://sourceforge.net/projects/polyclipping/>
+clipper-es is a port of Angus Johnson's Clipper library: <https://sourceforge.net/projects/polyclipping/>
 
 LIVE DEMO: <http://jsclipper.sourceforge.net/6.2.1.0/main_demo.html>
 
@@ -46,4 +47,4 @@ Algorithms, Graphics
 
 ## License
 
-[Boost Software License (BSL1.0)](http://www.boost.org/LICENSE_1_0.txt)
+[Boost Software License (BSL1.0)](https://www.boost.org/LICENSE_1_0.txt)
