@@ -2,7 +2,7 @@
 
 LIVE DEMO: <https://code4fukui.github.io/clipper-es/example/main_demo.html>
 
-> forked from [clipper-lib](junmer/clipper-lib: Boolean operations and offsetting library in Javascript)
+> forked from [junmer/clipper-lib](https://github.com/junmer/clipper-lib)
 
 > forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/)
 
