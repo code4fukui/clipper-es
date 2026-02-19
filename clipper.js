@@ -7627,3 +7627,5 @@
 	};
 
 })();
+
+export default ClipperLib;
