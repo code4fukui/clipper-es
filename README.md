@@ -1,5 +1,7 @@
 # clipper-es
 
+LIVE DEMO: <https://code4fukui.github.io/clipper-es/example/main_demo.html>
+
 > forked from [clipper-lib](junmer/clipper-lib: Boolean operations and offsetting library in Javascript)
 > forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/)
 
@@ -8,8 +10,6 @@
 clipper-es is a library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
 
 clipper-es is a port of Angus Johnson's Clipper library: <https://sourceforge.net/projects/polyclipping/>
-
-LIVE DEMO: <http://jsclipper.sourceforge.net/6.2.1.0/main_demo.html>
 
 Information and examples:
 <http://jsclipper.sourceforge.net/6.2.1.0/>
