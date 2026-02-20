@@ -6,6 +6,21 @@ LIVE DEMO: <https://code4fukui.github.io/clipper-es/example/main_demo.html>
 
 > forked from [Javascript Clipper](http://sourceforge.net/projects/jsclipper/)
 
+## Usage
+
+```js
+import ClipperLib from "https://code4fukui.github.io/clipper-es/clipper.js";
+
+const lines = [
+  [{ X: 1, Y: 2 }, { X: 2, Y: 3 }],
+  [{ X: 1, Y: 2 }, { X: 2, Y: 3 }],
+];
+
+const scale = 100;
+ClipperLib.JS.ScaleUpPaths(lines, scale);
+console.log(lines);
+```
+
 ## Description
 
 clipper-es is a library performs clipping and offsetting for both lines and polygons. All four boolean clipping operations are supported - intersection, union, difference and exclusive-or. Polygons can be of any shape including self-intersecting polygons.
